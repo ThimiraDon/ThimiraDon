@@ -1,4 +1,5 @@
 Hi there, I'm Thimira! 👋
+
 Data Scientist | Machine Learning Engineer
 I'm a data scientist with 3+ years of experience applying advanced ML and statistical techniques to drive operational efficiency, currently pursuing an MBA in Digital Transformation & AI while building end-to-end ML pipelines and automated solutions.
 📍 Based in UAE | 🎓 MS in Data Science (RMIT) | 🚀 AWS Cloud 
